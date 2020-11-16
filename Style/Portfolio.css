@@ -1,0 +1,35 @@
+.social.linkedin {
+  background-color: #000000;
+  color: #fefefe;
+}
+
+.social.linkedin:hover,
+.social.linkedin:focus {
+  background-color: #000000;
+  color: #fefefe;
+}
+.social.github {
+  background-color: #000000;
+  color: #fefefe;
+}
+
+.social.github:hover,
+.social.github:focus {
+  background-color: black;
+  color: #fefefe;
+}
+.top-bar {
+  background-color: rgb(53, 53, 53);
+}
+
+.menu-text {
+  background-color: rgb(53, 53, 53);
+}
+
+.menuf {
+  background-color: rgb(53, 53, 53);
+}
+
+#footer {
+  background-color: rgb(53, 53, 53);
+}
